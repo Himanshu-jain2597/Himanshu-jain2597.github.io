@@ -1,0 +1,112 @@
+.shadow-box {
+  box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.5);
+}
+
+body {
+  background-color: rgba(240, 231, 231, 0.055);
+}
+
+.gray-font {
+  color: #a6a6a6;
+}
+
+.light-cyan-font-button {
+  border: 1px solid rgb(31, 197, 197);
+}
+
+.light-cyan-font {
+  color: rgb(31, 197, 197);
+}
+
+.align-font {
+  text-align: center;
+}
+
+.logo {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: 60px;
+  border-bottom: 1px;
+}
+
+.nav-logo {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.heading {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading h1 {
+  font-size: 36px;
+}
+
+.description {
+  background-color: rgba(173, 216, 230, 0.062);
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 50px;
+}
+
+.desc-heading {
+  font-size: 18px;
+}
+
+.button-style {
+}
+.order-btn {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.card-layout {
+  border-radius: 0px 0px 0px 0px;
+  border-color: white;
+  box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.054);
+  margin: 30px 5px 30px 5px;
+}
+
+.card-layout:hover {
+  border-radius: 0px 0px 0px 0px;
+  border-color: white;
+  box-shadow: 0px 0px 30px rgba(128, 128, 128, 0.104);
+  margin: 30px 5px 30px 5px;
+}
+
+.card-text-size {
+  font-size: 14px;
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.sidenav {
+  height: 100%;
+  width: 60px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  overflow-x: hidden;
+  padding-top: 20px;
+  box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.5);
+}
+
+.sidenav div {
+  margin-bottom: 70px;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  margin-bottom: 15px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
